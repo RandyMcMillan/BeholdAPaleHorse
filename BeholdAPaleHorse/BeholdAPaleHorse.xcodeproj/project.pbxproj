@@ -13,9 +13,6 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		450A670411D27B9D00014BF5 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450A670311D27B9D00014BF5 /* QuartzCore.framework */; };
 		4541A9D8122EA716001A5E60 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4541A9D7122EA716001A5E60 /* Localizable.strings */; };
-		4544394817FDD5E700781873 /* AppIcon-076.png in Resources */ = {isa = PBXBuildFile; fileRef = 4544394517FDD5E700781873 /* AppIcon-076.png */; };
-		4544394917FDD5E700781873 /* AppIcon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 4544394617FDD5E700781873 /* AppIcon-120.png */; };
-		4544394A17FDD5E700781873 /* AppIcon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = 4544394717FDD5E700781873 /* AppIcon-152.png */; };
 		4544D87C1610A3C2003DB132 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4544D87B1610A3C2003DB132 /* Default-568h@2x.png */; };
 		4555C74C14211A00005F448D /* BeholdAPaleHorseBookDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4555C74B14211A00005F448D /* BeholdAPaleHorseBookDelegate.m */; };
 		455C7891142687CA0053D73B /* UIXToolbarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 455C7890142687CA0053D73B /* UIXToolbarView.m */; };
@@ -23,11 +20,7 @@
 		455C789E14268F6A0053D73B /* BeholdAPaleHorse-Button-H@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 455C789A14268F6A0053D73B /* BeholdAPaleHorse-Button-H@2x.png */; };
 		455C789F14268F6A0053D73B /* BeholdAPaleHorse-Button-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 455C789B14268F6A0053D73B /* BeholdAPaleHorse-Button-N.png */; };
 		455C78A014268F6A0053D73B /* BeholdAPaleHorse-Button-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 455C789C14268F6A0053D73B /* BeholdAPaleHorse-Button-N@2x.png */; };
-		4583767F1533B0AC003CD230 /* AppIcon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = 4583767E1533B0AC003CD230 /* AppIcon-144.png */; };
 		458DDFD7140D45FA00C5DA94 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 458DDFD6140D45FA00C5DA94 /* ImageIO.framework */; };
-		45AB72C6141FBFCA003524C3 /* AppIcon-057.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72B9141FBFCA003524C3 /* AppIcon-057.png */; };
-		45AB72C7141FBFCA003524C3 /* AppIcon-072.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72BA141FBFCA003524C3 /* AppIcon-072.png */; };
-		45AB72C8141FBFCA003524C3 /* AppIcon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72BB141FBFCA003524C3 /* AppIcon-114.png */; };
 		45AB72C9141FBFCA003524C3 /* BeholdAPaleHorse-Email.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72BC141FBFCA003524C3 /* BeholdAPaleHorse-Email.png */; };
 		45AB72CA141FBFCA003524C3 /* BeholdAPaleHorse-Email@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72BD141FBFCA003524C3 /* BeholdAPaleHorse-Email@2x.png */; };
 		45AB72CB141FBFCA003524C3 /* BeholdAPaleHorse-Mark-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 45AB72BE141FBFCA003524C3 /* BeholdAPaleHorse-Mark-N.png */; };
@@ -64,20 +57,31 @@
 		45D5AD9F1610E66B00706B9A /* HISTORY.md in Resources */ = {isa = PBXBuildFile; fileRef = 45D5AD9E1610E66B00706B9A /* HISTORY.md */; };
 		45D5ADA31610EADD00706B9A /* BeholdAPaleHorseDocumentOutline.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D5ADA21610EADC00706B9A /* BeholdAPaleHorseDocumentOutline.m */; };
 		48EAB06019AD9CC600282881 /* BeholdAPaleHorse.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 48EAB05F19AD9CC600282881 /* BeholdAPaleHorse.pdf */; };
+		48FB13C819ADA1E500EDDCEE /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BA19ADA1E500EDDCEE /* Icon-29.png */; };
+		48FB13C919ADA1E500EDDCEE /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BB19ADA1E500EDDCEE /* Icon-29@2x.png */; };
+		48FB13CA19ADA1E500EDDCEE /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BC19ADA1E500EDDCEE /* Icon-40.png */; };
+		48FB13CB19ADA1E500EDDCEE /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BD19ADA1E500EDDCEE /* Icon-40@2x.png */; };
+		48FB13CC19ADA1E500EDDCEE /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BE19ADA1E500EDDCEE /* Icon-50.png */; };
+		48FB13CD19ADA1E500EDDCEE /* Icon-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13BF19ADA1E500EDDCEE /* Icon-50@2x.png */; };
+		48FB13CE19ADA1E500EDDCEE /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C019ADA1E500EDDCEE /* Icon-60.png */; };
+		48FB13CF19ADA1E500EDDCEE /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C119ADA1E500EDDCEE /* Icon-60@2x.png */; };
+		48FB13D019ADA1E500EDDCEE /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C219ADA1E500EDDCEE /* Icon-72.png */; };
+		48FB13D119ADA1E500EDDCEE /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C319ADA1E500EDDCEE /* Icon-72@2x.png */; };
+		48FB13D219ADA1E500EDDCEE /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C419ADA1E500EDDCEE /* Icon-76.png */; };
+		48FB13D319ADA1E500EDDCEE /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C519ADA1E500EDDCEE /* Icon-76@2x.png */; };
+		48FB13D419ADA1E500EDDCEE /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C619ADA1E500EDDCEE /* Icon.png */; };
+		48FB13D519ADA1E500EDDCEE /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 48FB13C719ADA1E500EDDCEE /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D6058910D05DD3D006BFB54 /* BeholdAPaleHorse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeholdAPaleHorse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D6058910D05DD3D006BFB54 /* BAPH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BAPH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* BeholdAPaleHorse-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BeholdAPaleHorse-Prefix.pch"; sourceTree = "<group>"; };
 		450A670311D27B9D00014BF5 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		4541A9D5122EA686001A5E60 /* en */ = {isa = PBXFileReference; fileEncoding = 10; indentWidth = 4; lastKnownFileType = text.plist.strings; name = en; path = Resources/en.lproj/Localizable.strings; sourceTree = "<group>"; tabWidth = 4; };
-		4544394517FDD5E700781873 /* AppIcon-076.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-076.png"; path = "Graphics/AppIcon-076.png"; sourceTree = "<group>"; };
-		4544394617FDD5E700781873 /* AppIcon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-120.png"; path = "Graphics/AppIcon-120.png"; sourceTree = "<group>"; };
-		4544394717FDD5E700781873 /* AppIcon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-152.png"; path = "Graphics/AppIcon-152.png"; sourceTree = "<group>"; };
 		4544D87B1610A3C2003DB132 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Graphics/Default-568h@2x.png"; sourceTree = "<group>"; };
 		4555C74A14211A00005F448D /* BeholdAPaleHorseBookDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeholdAPaleHorseBookDelegate.h; sourceTree = "<group>"; };
 		4555C74B14211A00005F448D /* BeholdAPaleHorseBookDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeholdAPaleHorseBookDelegate.m; sourceTree = "<group>"; };
@@ -87,12 +91,8 @@
 		455C789A14268F6A0053D73B /* BeholdAPaleHorse-Button-H@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Button-H@2x.png"; path = "Graphics/BeholdAPaleHorse-Button-H@2x.png"; sourceTree = "<group>"; };
 		455C789B14268F6A0053D73B /* BeholdAPaleHorse-Button-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Button-N.png"; path = "Graphics/BeholdAPaleHorse-Button-N.png"; sourceTree = "<group>"; };
 		455C789C14268F6A0053D73B /* BeholdAPaleHorse-Button-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Button-N@2x.png"; path = "Graphics/BeholdAPaleHorse-Button-N@2x.png"; sourceTree = "<group>"; };
-		4583767E1533B0AC003CD230 /* AppIcon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-144.png"; path = "Graphics/AppIcon-144.png"; sourceTree = "<group>"; };
 		458BF155143E077500CDF567 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = Resources/de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		458DDFD6140D45FA00C5DA94 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
-		45AB72B9141FBFCA003524C3 /* AppIcon-057.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-057.png"; path = "Graphics/AppIcon-057.png"; sourceTree = "<group>"; };
-		45AB72BA141FBFCA003524C3 /* AppIcon-072.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-072.png"; path = "Graphics/AppIcon-072.png"; sourceTree = "<group>"; };
-		45AB72BB141FBFCA003524C3 /* AppIcon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AppIcon-114.png"; path = "Graphics/AppIcon-114.png"; sourceTree = "<group>"; };
 		45AB72BC141FBFCA003524C3 /* BeholdAPaleHorse-Email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Email.png"; path = "Graphics/BeholdAPaleHorse-Email.png"; sourceTree = "<group>"; };
 		45AB72BD141FBFCA003524C3 /* BeholdAPaleHorse-Email@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Email@2x.png"; path = "Graphics/BeholdAPaleHorse-Email@2x.png"; sourceTree = "<group>"; };
 		45AB72BE141FBFCA003524C3 /* BeholdAPaleHorse-Mark-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BeholdAPaleHorse-Mark-N.png"; path = "Graphics/BeholdAPaleHorse-Mark-N.png"; sourceTree = "<group>"; };
@@ -150,6 +150,20 @@
 		45D5ADA11610EADC00706B9A /* BeholdAPaleHorseDocumentOutline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BeholdAPaleHorseDocumentOutline.h; path = Sources/BeholdAPaleHorseDocumentOutline.h; sourceTree = "<group>"; };
 		45D5ADA21610EADC00706B9A /* BeholdAPaleHorseDocumentOutline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BeholdAPaleHorseDocumentOutline.m; path = Sources/BeholdAPaleHorseDocumentOutline.m; sourceTree = "<group>"; };
 		48EAB05F19AD9CC600282881 /* BeholdAPaleHorse.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = BeholdAPaleHorse.pdf; path = ../BeholdAPaleHorse.pdf; sourceTree = "<group>"; };
+		48FB13BA19ADA1E500EDDCEE /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-29.png"; path = "Graphics/Icon-29.png"; sourceTree = "<group>"; };
+		48FB13BB19ADA1E500EDDCEE /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-29@2x.png"; path = "Graphics/Icon-29@2x.png"; sourceTree = "<group>"; };
+		48FB13BC19ADA1E500EDDCEE /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "Graphics/Icon-40.png"; sourceTree = "<group>"; };
+		48FB13BD19ADA1E500EDDCEE /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@2x.png"; path = "Graphics/Icon-40@2x.png"; sourceTree = "<group>"; };
+		48FB13BE19ADA1E500EDDCEE /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-50.png"; path = "Graphics/Icon-50.png"; sourceTree = "<group>"; };
+		48FB13BF19ADA1E500EDDCEE /* Icon-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-50@2x.png"; path = "Graphics/Icon-50@2x.png"; sourceTree = "<group>"; };
+		48FB13C019ADA1E500EDDCEE /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60.png"; path = "Graphics/Icon-60.png"; sourceTree = "<group>"; };
+		48FB13C119ADA1E500EDDCEE /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "Graphics/Icon-60@2x.png"; sourceTree = "<group>"; };
+		48FB13C219ADA1E500EDDCEE /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Graphics/Icon-72.png"; sourceTree = "<group>"; };
+		48FB13C319ADA1E500EDDCEE /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "Graphics/Icon-72@2x.png"; sourceTree = "<group>"; };
+		48FB13C419ADA1E500EDDCEE /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Graphics/Icon-76.png"; sourceTree = "<group>"; };
+		48FB13C519ADA1E500EDDCEE /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "Graphics/Icon-76@2x.png"; sourceTree = "<group>"; };
+		48FB13C619ADA1E500EDDCEE /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = Graphics/Icon.png; sourceTree = "<group>"; };
+		48FB13C719ADA1E500EDDCEE /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "Graphics/Icon@2x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* BeholdAPaleHorse-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BeholdAPaleHorse-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -186,7 +200,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* BeholdAPaleHorse.app */,
+				1D6058910D05DD3D006BFB54 /* BAPH.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -261,13 +275,20 @@
 		45943FC317FDCA36003CC77A /* App */ = {
 			isa = PBXGroup;
 			children = (
-				45AB72B9141FBFCA003524C3 /* AppIcon-057.png */,
-				45AB72BA141FBFCA003524C3 /* AppIcon-072.png */,
-				4544394517FDD5E700781873 /* AppIcon-076.png */,
-				45AB72BB141FBFCA003524C3 /* AppIcon-114.png */,
-				4544394617FDD5E700781873 /* AppIcon-120.png */,
-				4583767E1533B0AC003CD230 /* AppIcon-144.png */,
-				4544394717FDD5E700781873 /* AppIcon-152.png */,
+				48FB13BA19ADA1E500EDDCEE /* Icon-29.png */,
+				48FB13BB19ADA1E500EDDCEE /* Icon-29@2x.png */,
+				48FB13BC19ADA1E500EDDCEE /* Icon-40.png */,
+				48FB13BD19ADA1E500EDDCEE /* Icon-40@2x.png */,
+				48FB13BE19ADA1E500EDDCEE /* Icon-50.png */,
+				48FB13BF19ADA1E500EDDCEE /* Icon-50@2x.png */,
+				48FB13C019ADA1E500EDDCEE /* Icon-60.png */,
+				48FB13C119ADA1E500EDDCEE /* Icon-60@2x.png */,
+				48FB13C219ADA1E500EDDCEE /* Icon-72.png */,
+				48FB13C319ADA1E500EDDCEE /* Icon-72@2x.png */,
+				48FB13C419ADA1E500EDDCEE /* Icon-76.png */,
+				48FB13C519ADA1E500EDDCEE /* Icon-76@2x.png */,
+				48FB13C619ADA1E500EDDCEE /* Icon.png */,
+				48FB13C719ADA1E500EDDCEE /* Icon@2x.png */,
 				4544D87B1610A3C2003DB132 /* Default-568h@2x.png */,
 			);
 			name = App;
@@ -365,7 +386,7 @@
 			);
 			name = BeholdAPaleHorse;
 			productName = BeholdAPaleHorse;
-			productReference = 1D6058910D05DD3D006BFB54 /* BeholdAPaleHorse.app */;
+			productReference = 1D6058910D05DD3D006BFB54 /* BAPH.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -401,32 +422,39 @@
 			buildActionMask = 2147483647;
 			files = (
 				4541A9D8122EA716001A5E60 /* Localizable.strings in Resources */,
-				45AB72C6141FBFCA003524C3 /* AppIcon-057.png in Resources */,
 				48EAB06019AD9CC600282881 /* BeholdAPaleHorse.pdf in Resources */,
-				45AB72C7141FBFCA003524C3 /* AppIcon-072.png in Resources */,
-				45AB72C8141FBFCA003524C3 /* AppIcon-114.png in Resources */,
+				48FB13D119ADA1E500EDDCEE /* Icon-72@2x.png in Resources */,
 				45AB72C9141FBFCA003524C3 /* BeholdAPaleHorse-Email.png in Resources */,
+				48FB13CF19ADA1E500EDDCEE /* Icon-60@2x.png in Resources */,
 				45AB72CA141FBFCA003524C3 /* BeholdAPaleHorse-Email@2x.png in Resources */,
+				48FB13CD19ADA1E500EDDCEE /* Icon-50@2x.png in Resources */,
 				45AB72CB141FBFCA003524C3 /* BeholdAPaleHorse-Mark-N.png in Resources */,
 				45AB72CC141FBFCA003524C3 /* BeholdAPaleHorse-Mark-N@2x.png in Resources */,
 				45AB72CD141FBFCA003524C3 /* BeholdAPaleHorse-Mark-Y.png in Resources */,
 				45AB72CE141FBFCA003524C3 /* BeholdAPaleHorse-Mark-Y@2x.png in Resources */,
+				48FB13D219ADA1E500EDDCEE /* Icon-76.png in Resources */,
 				45AB72CF141FBFCA003524C3 /* BeholdAPaleHorse-Print.png in Resources */,
+				48FB13D519ADA1E500EDDCEE /* Icon@2x.png in Resources */,
 				45AB72D0141FBFCA003524C3 /* BeholdAPaleHorse-Print@2x.png in Resources */,
+				48FB13D319ADA1E500EDDCEE /* Icon-76@2x.png in Resources */,
 				45AB72D1141FBFCA003524C3 /* BeholdAPaleHorse-Thumbs.png in Resources */,
+				48FB13CA19ADA1E500EDDCEE /* Icon-40.png in Resources */,
 				45AB72D2141FBFCA003524C3 /* BeholdAPaleHorse-Thumbs@2x.png in Resources */,
+				48FB13CE19ADA1E500EDDCEE /* Icon-60.png in Resources */,
+				48FB13D019ADA1E500EDDCEE /* Icon-72.png in Resources */,
+				48FB13C919ADA1E500EDDCEE /* Icon-29@2x.png in Resources */,
 				45AB72DE141FC043003524C3 /* LICENSE.md in Resources */,
 				45AB72E0141FC04B003524C3 /* README.md in Resources */,
+				48FB13C819ADA1E500EDDCEE /* Icon-29.png in Resources */,
+				48FB13CC19ADA1E500EDDCEE /* Icon-50.png in Resources */,
 				455C789D14268F6A0053D73B /* BeholdAPaleHorse-Button-H.png in Resources */,
 				455C789E14268F6A0053D73B /* BeholdAPaleHorse-Button-H@2x.png in Resources */,
 				455C789F14268F6A0053D73B /* BeholdAPaleHorse-Button-N.png in Resources */,
 				455C78A014268F6A0053D73B /* BeholdAPaleHorse-Button-N@2x.png in Resources */,
-				4583767F1533B0AC003CD230 /* AppIcon-144.png in Resources */,
-				4544394917FDD5E700781873 /* AppIcon-120.png in Resources */,
+				48FB13CB19ADA1E500EDDCEE /* Icon-40@2x.png in Resources */,
+				48FB13D419ADA1E500EDDCEE /* Icon.png in Resources */,
 				4544D87C1610A3C2003DB132 /* Default-568h@2x.png in Resources */,
 				45D5AD9F1610E66B00706B9A /* HISTORY.md in Resources */,
-				4544394817FDD5E700781873 /* AppIcon-076.png in Resources */,
-				4544394A17FDD5E700781873 /* AppIcon-152.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -490,7 +518,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BeholdAPaleHorse-Prefix.pch";
 				INFOPLIST_FILE = "BeholdAPaleHorse-Info.plist";
-				PRODUCT_NAME = BeholdAPaleHorse;
+				PRODUCT_NAME = BAPH;
 			};
 			name = Debug;
 		};
@@ -503,7 +531,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BeholdAPaleHorse-Prefix.pch";
 				INFOPLIST_FILE = "BeholdAPaleHorse-Info.plist";
-				PRODUCT_NAME = BeholdAPaleHorse;
+				PRODUCT_NAME = BAPH;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -544,7 +572,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BeholdAPaleHorse-Prefix.pch";
 				INFOPLIST_FILE = "BeholdAPaleHorse-Info.plist";
-				PRODUCT_NAME = BeholdAPaleHorse;
+				PRODUCT_NAME = BAPH;
 			};
 			name = Testing;
 		};
