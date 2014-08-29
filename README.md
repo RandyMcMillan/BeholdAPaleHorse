@@ -1,3 +1,4 @@
+![image](https://raw.githubusercontent.com/RandyMcMillan/BeholdAPaleHorse/master/Cover.jpg)
 
                       OPERATION MAJORITY
 
@@ -348,10 +349,5 @@ the exact papers that I saw will surface and you will all see
 this exact information contained within them.
 
 Milton William Cooper
-
-
-<center>
-
-![image](https://raw.githubusercontent.com/RandyMcMillan/BeholdAPaleHorse/master/Cover.jpg)
 
 
